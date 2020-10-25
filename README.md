@@ -1,6 +1,6 @@
 # Random Image Demo
 
-<<tag>>
+[![Build Status](https://travis-ci.com/ismail5701/demo.svg?branch=master)](https://travis-ci.com/ismail5701/demo)
 
 <p>   
     <a alt="Java">
@@ -13,6 +13,8 @@ A spring boot application to fetch random images from the internet and to save t
 *   User can fetch random image
 *   User can fetch the image by ID
 *   User can fetch all saved image urls
+
+*   Test URL - https://zeta-dem0.herokuapp.com/
      
 ## Application screenshots
 
